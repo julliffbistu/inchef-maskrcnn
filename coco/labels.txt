@@ -1,0 +1,12 @@
+__ignore__
+_background_
+beef
+broccoli
+pan
+souppothandle
+panhandle
+plate
+vegetablebowl
+seasoningbowl
+nethandle
+seasoningbottle
